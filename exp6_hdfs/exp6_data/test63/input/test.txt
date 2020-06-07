@@ -1,0 +1,12 @@
+1 liubei 68 72 四川
+2 guanyu 75 62 四川
+3 zhangfei 88 64 四川
+4 caocao 83 85 河南
+1 liubei 91 80 四川
+2 guanyu 81 70 四川
+3 zhangfei 76 69 四川
+4 caocao 90 73 河南
+1 liubei 78 82 四川
+2 guanyu 64 71 四川
+3 zhangfei 76 84 四川
+4 caocao 88 95 河南
